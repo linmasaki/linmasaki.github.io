@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>小Co鬥阿邦兔XII</title>
+    <link>https://linmasaki.github.io/</link>
+    <description>Recent content on 小Co鬥阿邦兔XII</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 19 Dec 2021 07:30:50 +0800</lastBuildDate><atom:link href="https://linmasaki.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Article on Hugo</title>
+      <link>https://linmasaki.github.io/posts/2021/12/my-first-article/</link>
+      <pubDate>Sun, 19 Dec 2021 07:30:50 +0800</pubDate>
+      
+      <guid>https://linmasaki.github.io/posts/2021/12/my-first-article/</guid>
+      <description>
+        
+          
+            這裡是放 Summary 的地方！
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>在 GitHub 上使用 Hugo 架設個人部落格</title>
+      <link>https://linmasaki.github.io/posts/2021/11/hugo-intro/</link>
+      <pubDate>Sun, 21 Nov 2021 00:54:31 +0800</pubDate>
+      
+      <guid>https://linmasaki.github.io/posts/2021/11/hugo-intro/</guid>
+      <description>
+        
+          
+            近幾年，使用 Markdown 語法來撰寫技術文章在軟體工程師的圈子裡已算是非常普遍的現象，各大技術部落格平台也都有內建對該語法的支援，但偏偏自己使用的 Blogger 在這方面的支援可說是趨近於零，只能透過[一些特殊的設定方式及調整](https://linmasaki09.blogspot.com/2019/06/markdown-blogger.html)才能勉強符合自己的期望。基於以上理由，腦中漸漸的便開始浮現將部落格文章轉移到自己的 Github 上，在經過一段時間評估 [Hugo](https://gohugo.io) 和 [Hexo](https://hexo.io) 的各種差異後，最後選擇了 **Hugo**，原因在於 **Hugo** 的編譯速度快於 Hexo，整體的開發體驗也都優於 Hexo，更重要的是...&lt;span style=&#34;color:red&#34;&gt;***我痛恨使用 NPM***&lt;/span&gt;（謎：這才是主因吧...）！
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
